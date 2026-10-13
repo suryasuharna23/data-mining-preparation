@@ -1,0 +1,6 @@
+{
+  "name": "mining-mind",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "start": "node scripts/serve.cjs", "test": "node --test tests/*.test.cjs" }
+}
